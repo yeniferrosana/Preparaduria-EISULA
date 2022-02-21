@@ -1,0 +1,229 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 04:52:52 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is opened by 29050@dell
+
+[2018-06-08 04:52:52 #2 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 04:52:52 #3 type.registry] 
+New type Modelos.Point
+
+[2018-06-08 04:52:52 #4 type] 
+Type Modelos.Point is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 04:53:36 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' has been recovered (tr. 6-8)
+
+[2018-06-08 04:53:36 #2 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is opened by 29282@dell
+
+[2018-06-08 04:53:36 #3 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 04:53:37 #4 type] 
+Type Modelos.Point is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 04:53:38 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' has been recovered (tr. 9-9)
+
+[2018-06-08 04:53:38 #2 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is opened by 29320@dell
+
+[2018-06-08 04:53:38 #3 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 04:53:39 #4 type] 
+Type Modelos.Point is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 04:55:37 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' has been recovered (tr. 10-10)
+
+[2018-06-08 04:55:38 #2 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is opened by 29578@dell
+
+[2018-06-08 04:55:38 #3 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 04:55:38 #4 type] 
+Type Modelos.Point is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 04:56:12 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' has been recovered (tr. 11-11)
+
+[2018-06-08 04:56:12 #2 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is opened by 29784@dell
+
+[2018-06-08 04:56:12 #3 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 04:56:12 #4 type] 
+Type Modelos.Point is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 04:56:14 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' has been recovered (tr. 12-12)
+
+[2018-06-08 04:56:14 #2 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is opened by 29805@dell
+
+[2018-06-08 04:56:14 #3 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 04:56:14 #4 type] 
+Type Modelos.Point is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 04:56:55 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' has been recovered (tr. 13-13)
+
+[2018-06-08 04:56:55 #2 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is opened by 29872@dell
+
+[2018-06-08 04:56:55 #3 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 04:56:55 #4 type] 
+Type Modelos.Point is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 04:57:56 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' has been recovered (tr. 14-14)
+
+[2018-06-08 04:57:56 #2 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is opened by 29924@dell
+
+[2018-06-08 04:57:56 #3 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 04:57:56 #4 type] 
+Type Modelos.Point is not enhanced.
+
+[2018-06-08 04:57:58 #5 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is closed by 29924@dell
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 05:02:07 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is opened by 30411@dell
+
+[2018-06-08 05:02:07 #2 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 05:02:08 #3 type] 
+Type Modelos.Point is not enhanced.
+
+[2018-06-08 05:02:09 #4 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/points.odb' is closed by 30411@dell
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 05:05:41 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/Modelos_points.odb' is opened by 30925@dell
+
+[2018-06-08 05:05:41 #2 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 05:05:41 #3 type.registry] 
+New type Modelos.Point
+
+[2018-06-08 05:05:41 #4 type] 
+Type Modelos.Point is not enhanced.
+
+[2018-06-08 05:05:42 #5 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/Modelos_points.odb' is closed by 30925@dell
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 05:37:31 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/practica3.odb' is opened by 3738@dell
+
+[2018-06-08 05:37:31 #2 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 05:37:32 #3 type.registry] 
+New type Modelos.Persona
+
+[2018-06-08 05:37:32 #4 type.registry] 
+New type Modelos.Profesor
+
+[2018-06-08 05:37:32 #5 type] 
+Type Modelos.Persona is not enhanced.
+
+[2018-06-08 05:37:32 #6 type] 
+Type Modelos.Profesor is not enhanced.
+
+[2018-06-08 05:37:32 #7 type.registry] 
+New type Modelos.Estudiante
+
+[2018-06-08 05:37:32 #8 type] 
+Type Modelos.Estudiante is not enhanced.
+
+[2018-06-08 05:37:32 #9 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/practica3.odb' is closed by 3738@dell
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 05:41:06 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/practica3.odb' is opened by 4399@dell
+
+[2018-06-08 05:41:06 #2 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 05:41:06 #3 type] 
+Type Modelos.Persona is not enhanced.
+
+[2018-06-08 05:41:06 #4 type] 
+Type Modelos.Profesor is not enhanced.
+
+[2018-06-08 05:41:06 #5 type] 
+Type Modelos.Estudiante is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 05:41:26 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/practica3.odb' is opened by 4428@dell
+
+[2018-06-08 05:41:26 #2 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 05:41:26 #3 type] 
+Type Modelos.Persona is not enhanced.
+
+[2018-06-08 05:41:26 #4 type] 
+Type Modelos.Profesor is not enhanced.
+
+[2018-06-08 05:41:26 #5 type] 
+Type Modelos.Estudiante is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-08 05:41:51 #1 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/practica3.odb' is opened by 4632@dell
+
+[2018-06-08 05:41:51 #2 store] 
+Configuration path: /home/neriomoran/eclipse-workspace/objectdb-2.7.5/objectdb.conf
+
+[2018-06-08 05:41:51 #3 type] 
+Type Modelos.Persona is not enhanced.
+
+[2018-06-08 05:41:51 #4 type] 
+Type Modelos.Profesor is not enhanced.
+
+[2018-06-08 05:41:51 #5 type] 
+Type Modelos.Estudiante is not enhanced.
+
+[2018-06-08 05:41:52 #6 store] 
+Database '/home/neriomoran/eclipse-workspace/objectdb-2.7.5/db/practica3.odb' is closed by 4632@dell
+

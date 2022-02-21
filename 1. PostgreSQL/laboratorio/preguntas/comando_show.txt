@@ -1,0 +1,1 @@
+Muestra el estado de variables que se pueden ajustar en sqlite, por ejemplo la variable headers podemos activarla o desactivarla para mostrar los encabezados en nuestras consultas, al ejecutar .show mostrara si esta o no activa. Pueden leer mas información en https://www.sqlite.org/cli.html
