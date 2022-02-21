@@ -1,4 +1,4 @@
-![Alt text](https://github.com/yeniferrosana/Preparaduria-EISULA/blob/master/resources/logo_computacion.png)
+![Alt text](https://github.com/yeniferrosana/Preparaduria-EISULA/blob/main/resources/logo_computacion.png)
 
 # Ingeniería del Software ![Status badge](https://img.shields.io/badge/semestre-b--2018-blue)
 _En esta rama encontrarás el material impartido en el laboratorio de la materia Ingeniería del software sobre los temas:_
